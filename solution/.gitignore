@@ -1,0 +1,9 @@
+*.db
+*.db-wal
+*.db-shm
+*.key
+__pycache__/
+.pytest_cache/
+reports/
+data/
+data_large/
